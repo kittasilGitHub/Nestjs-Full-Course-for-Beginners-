@@ -1,0 +1,12 @@
+git command
+echo "# Nestjs-Full-Course-for-Beginners-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kittasilGitHub/Nestjs-Full-Course-for-Beginners-.git
+git push -u origin main
+
+URL
+Nest.js Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours
+https://www.youtube.com/watch?v=8_X0nSrzrCw
